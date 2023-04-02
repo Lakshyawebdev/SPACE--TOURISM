@@ -1,0 +1,398 @@
+/**********************************************************HOME PAGE************************************************/
+#Home-Body
+{
+     
+    margin:0;
+    background-image:url("../images/background-home-desktop.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    font-family:sans-serif;
+}
+
+/******************************************NAVGIGATION BAR FOR ALL THE PAGES*****************/
+.logo-home-destinmoon-mars-europia-titan-crew
+{
+    position:absolute;
+    top:4.625rem;
+    left:2.5625rem;
+    
+}
+
+.nav-bar-home-destinmoon-mars-europia-titan-crew
+{
+    padding:40px;
+    margin-top:2.125rem;
+    margin-left:50%;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0));
+    backdrop-filter: blur(10px);
+
+}
+.nav-bar-home-destinmoon-mars-europia-titan-crew a 
+{
+    text-decoration: none;
+    margin-left:3.125rem;
+    color:white;
+    letter-spacing: 0.0625rem;
+    
+}
+a:hover 
+{
+    text-decoration: underline;
+}
+.hr-home-destinmoon-mars-europia-titan-crew
+{
+    position:relative;
+    margin-right:52%;
+    margin-left:5%;
+    top:5.25rem;
+    right:16.5625rem;
+    left:3.875rem;
+}
+/*************************************************************************************************************************/
+.content-home 
+{
+    color:white;
+    margin-right:60%;
+    margin-left:12.6875rem;
+    margin-top:9.375rem;
+}
+.heading-home
+{
+    line-height:6.25rem;
+}
+.space
+{
+   font-size:7.5rem;
+}
+p 
+{
+    line-height:1.6875rem;
+}
+.explore
+{
+    position:absolute;
+    width:250px;
+    height:250px;
+    background-color:rgb(220, 219, 219);
+    border-radius:50%;
+    right:200px;
+    bottom:130px;
+    text-align: center;
+    
+}
+.explore-h1
+{
+    padding-top:90px;
+    font-weight: lighter;
+}
+/**********************************************************DESTINATION MOON PAGE**************/
+/**********************************************************DESTINATION MARS PAGE*************/
+/**********************************************************DESTINATION EUROPIA PAGE*********/
+/**********************************************************DESTINATION TITAN PAGE**********/
+/**********************************************************DESTINATION CREW PAGE**********/
+
+#DESTINATION-MOON-MARS-EUROPIA-TITAN-Body
+{
+    margin:0;
+    background-image:url("../images/background-destination-desktop.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    height:100vh;
+    font-family:sans-serif;
+}
+.heading-h2
+{
+    position:absolute;
+    color:white;
+    margin-top:77px;
+    margin-left:150px;
+    font-size:100;
+    font-weight:lighter;
+    letter-spacing: 3px;
+}
+.moon01
+{
+    color:grey;
+}
+.mars-img-destination
+{
+    position:absolute;
+    top:310px;
+    left:242px;
+}
+.content-destination-moon
+{
+    position:relative;
+    top:162px;
+    color:white;
+    margin-left:968px;
+    margin-right:137px;
+}
+.info-moon1
+{
+    position:absolute;
+}
+.info-moon2
+{
+    position:absolute;
+    left:209px;
+}
+.moon-h1
+{
+    font-size:101px;
+    margin-top:21px;
+    margin-bottom:0;
+    font-weight: lighter;
+}
+.europia-h1
+{
+    font-size:88px;
+    margin-top:21px;
+    margin-bottom:0;
+    font-weight: lighter;
+
+}
+.content-destination-moon a
+{
+    margin:0 25px 0 0;
+    text-decoration: none;
+}
+.content-destination-moon a:hover
+{
+    text-decoration:underline;
+}
+.content-destination-moon p,h4,a/***********color for p , a, h4 tags********/
+{
+    color:rgba(226, 214, 251, 0.955);
+    font-weight: lighter;
+}
+.distance-moon,.traveltime-moon
+{
+    font-weight:lighter;
+}
+/**********************************************************CREW COMMANDER PAGE*****************************/
+/**********************************************************CREW PILOT PAGE********************************/
+/**********************************************************CREW MISSION SPECIALIST PAGE******************/
+/**********************************************************CREW FLIGHT ENGINEER PAGE********************/
+#crew
+{
+    margin:0;
+    background-image:url("../images/background-crew-desktop.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    font-family:sans-serif;
+}
+.num-crew 
+{
+    color:grey;
+}
+.meetyourcrew
+{
+    position:absolute;
+    top:186px;
+    left:126px;
+    color:white;
+    font-weight:lighter;
+    letter-spacing:3px;
+}
+.content-crew 
+{
+    position:absolute;
+    top:377px;
+    right:59.375rem;
+    left:142px;
+    color:white;
+}
+.content-crew h2
+{
+    font-weight:lighter;
+    letter-spacing: 3px;
+    color:grey;
+}
+.content-crew p
+{
+    color:rgba(226, 214, 251, 0.955);
+}
+.commander-name 
+{
+    font-size:45px;
+    font-weight:lighter;
+    margin:0 0 28px 0;
+}
+.commander-name h1
+{
+    position:relative;
+
+}
+.imgofcrewmates
+{
+    position:absolute;
+    left:899px;
+}
+.link1
+{
+    position:absolute;
+    bottom:50px;
+    left:142px;
+    width: 15px;
+    height:15px;
+    border-radius:50%;
+    background-color:grey;
+}
+.link2
+{
+    position:absolute;
+    bottom:50px;
+    left:180px;
+    width: 15px;
+    height:15px;
+    border-radius:50%;
+    background-color:grey;
+}
+.link3
+{
+    position:absolute;
+    bottom:50px;
+    left:216px;
+    width: 15px;
+    height:15px;
+    border-radius:50%;
+    background-color:grey;
+}
+.link4
+{
+    position:absolute;
+    bottom:50px;
+    left:256px;
+    width: 15px;
+    height:15px;
+    border-radius:50%;
+    background-color:grey;
+}
+.link1:hover,.link2:hover,.link3:hover,.link4:hover
+{
+    background-color:aliceblue;
+}
+.imgofcrewmates-anoushehansari
+{
+    position:absolute;
+    left:899px;
+    top:189px;
+}
+/**********************************************************TECHNOLOGY LAUNCH PAGE*****************************************/
+/**********************************************************TECHNOLOGY SPACEPORT PAGE*************************************/
+/**********************************************************TECHNOLOGY CAPSULE PAGE**************************************/
+#TECHNOLOGY-LAUNCH-SPACEPORT-CAPSULE
+{
+    margin:0;
+    background-image:url("../images/background-technology-desktop.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    font-family:sans-serif;
+}
+.spacelaunch101-h1
+{
+    position:absolute;
+    top:187px;
+    left:139px;
+    color:white;
+    letter-spacing: 2px;
+    font-weight: lighter;
+}
+.h103
+{
+    color:grey;
+}
+.content-technology
+{
+    position:absolute;
+    color:white;
+    top:312px;
+    left:337px;
+    right:50%;
+}
+.launchvehicle
+{
+    font-size:48px;
+    font-weight:lighter;
+    margin-top:0;
+}
+.content-technology h5
+{
+    margin-bottom:8px;
+    letter-spacing: 2px;
+    font-weight: lighter;
+    color:rgba(226, 214, 251, 0.955);
+}
+.content-technology p
+{
+    color:rgba(226, 214, 251, 0.955);
+}
+.technology-img
+{
+    position:absolute;
+    top:222px;
+    left:1021px;
+}
+.link1-tech
+{
+    position:absolute;
+    width:70px;
+    height:70px;
+    border-radius:50%;
+    top:340px;
+    left:191px;
+    border:solid 2px grey;
+    text-align: center;
+}
+.link2-tech
+{
+    position:absolute;
+    width:70px;
+    height:70px;
+    border-radius:50%;
+    top:451px;
+    left:191px;
+    border:solid 2px grey;
+    text-align: center;
+}
+.link3-tech
+{
+    position:absolute;
+    width:70px;
+    height:70px;
+    border-radius:50%;
+    top:559px;
+    left:191px;
+    border:solid 2px grey;
+    text-align: center;
+}
+.one 
+{
+    position:absolute;
+    top:342px;
+    left:219px;
+    color:grey;
+}
+.two 
+{
+    position:absolute;
+    top:452px;
+    left:219px;
+    color:grey;
+}
+.three 
+{
+    position:absolute;
+    top:562px;
+    left:219px;
+    color:grey;
+}
+.link1-tech:hover,.link2-tech:hover,.link3-tech:hover
+{
+    background-color:white;
+}
+
+
+
+
